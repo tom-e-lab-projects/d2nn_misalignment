@@ -1,0 +1,36 @@
+epoch 1 32, train loss: -0.155728, train accuracy: 0.101379
+validation loss:-0.252845, validation accuracy: 0.107040
+epoch 2 32, train loss: -0.305094, train accuracy: 0.106812
+validation loss:-0.365303, validation accuracy: 0.108475
+epoch 3 32, train loss: -0.404972, train accuracy: 0.108000
+validation loss:-0.446569, validation accuracy: 0.108841
+epoch 4 32, train loss: -0.479709, train accuracy: 0.107563
+validation loss:-0.510054, validation accuracy: 0.109634
+epoch 5 32, train loss: -0.538048, train accuracy: 0.106680
+validation loss:-0.561487, validation accuracy: 0.110748
+epoch 6 32, train loss: -0.585618, train accuracy: 0.107174
+validation loss:-0.604144, validation accuracy: 0.108902
+epoch 7 32, train loss: -0.623494, train accuracy: 0.107218
+validation loss:-0.636915, validation accuracy: 0.112061
+epoch 8 32, train loss: -0.652455, train accuracy: 0.106884
+validation loss:-0.662065, validation accuracy: 0.110107
+epoch 9 32, train loss: -0.674486, train accuracy: 0.106640
+validation loss:-0.680721, validation accuracy: 0.109833
+epoch 10 32, train loss: -0.691307, train accuracy: 0.107347
+validation loss:-0.696177, validation accuracy: 0.108994
+epoch 11 32, train loss: -0.704852, train accuracy: 0.105993
+validation loss:-0.707042, validation accuracy: 0.107925
+epoch 12 32, train loss: -0.715871, train accuracy: 0.106848
+validation loss:-0.714987, validation accuracy: 0.108063
+epoch 13 32, train loss: -0.724397, train accuracy: 0.106831
+validation loss:-0.723495, validation accuracy: 0.108582
+epoch 14 32, train loss: -0.731644, train accuracy: 0.106312
+validation loss:-0.730249, validation accuracy: 0.108795
+epoch 15 32, train loss: -0.737869, train accuracy: 0.105330
+validation loss:-0.737242, validation accuracy: 0.107635
+epoch 16 32, train loss: -0.744373, train accuracy: 0.106337
+validation loss:-0.741967, validation accuracy: 0.108047
+epoch 17 32, train loss: -0.749561, train accuracy: 0.105680
+validation loss:-0.747259, validation accuracy: 0.109650
+epoch 18 32, train loss: -0.754146, train accuracy: 0.106483
+validation loss:-0.750938, validation accuracy: 0.109482

@@ -1,0 +1,180 @@
+epoch 1 32, train loss: -0.163025, train accuracy: 0.217773
+validation loss:-0.265041, validation accuracy: 0.361328
+epoch 1 64, train loss: -0.331101, train accuracy: 0.448730
+validation loss:-0.383658, validation accuracy: 0.548828
+epoch 2 32, train loss: -0.432493, train accuracy: 0.657227
+validation loss:-0.462810, validation accuracy: 0.726562
+epoch 2 64, train loss: -0.504408, train accuracy: 0.722656
+validation loss:-0.531479, validation accuracy: 0.722656
+epoch 3 32, train loss: -0.567762, train accuracy: 0.760254
+validation loss:-0.587932, validation accuracy: 0.761719
+epoch 3 64, train loss: -0.627108, train accuracy: 0.806152
+validation loss:-0.639179, validation accuracy: 0.816406
+epoch 4 32, train loss: -0.662276, train accuracy: 0.813965
+validation loss:-0.673584, validation accuracy: 0.832031
+epoch 4 64, train loss: -0.703531, train accuracy: 0.853027
+validation loss:-0.700231, validation accuracy: 0.843750
+epoch 5 32, train loss: -0.719806, train accuracy: 0.854980
+validation loss:-0.721579, validation accuracy: 0.851562
+epoch 5 64, train loss: -0.739696, train accuracy: 0.870605
+validation loss:-0.734343, validation accuracy: 0.869141
+epoch 6 32, train loss: -0.747942, train accuracy: 0.869629
+validation loss:-0.746378, validation accuracy: 0.875000
+epoch 6 64, train loss: -0.765418, train accuracy: 0.887207
+validation loss:-0.755087, validation accuracy: 0.878906
+epoch 7 32, train loss: -0.767887, train accuracy: 0.887207
+validation loss:-0.762702, validation accuracy: 0.884766
+epoch 7 64, train loss: -0.779478, train accuracy: 0.890625
+validation loss:-0.768964, validation accuracy: 0.880859
+epoch 8 32, train loss: -0.783893, train accuracy: 0.889160
+validation loss:-0.772586, validation accuracy: 0.869141
+epoch 8 64, train loss: -0.789547, train accuracy: 0.890137
+validation loss:-0.782683, validation accuracy: 0.892578
+epoch 9 32, train loss: -0.794176, train accuracy: 0.893066
+validation loss:-0.785773, validation accuracy: 0.896484
+epoch 9 64, train loss: -0.800001, train accuracy: 0.901855
+validation loss:-0.790696, validation accuracy: 0.886719
+epoch 10 32, train loss: -0.803013, train accuracy: 0.899414
+validation loss:-0.791686, validation accuracy: 0.896484
+epoch 10 64, train loss: -0.806430, train accuracy: 0.900391
+validation loss:-0.797175, validation accuracy: 0.890625
+epoch 11 32, train loss: -0.817107, train accuracy: 0.908691
+validation loss:-0.798053, validation accuracy: 0.888672
+epoch 11 64, train loss: -0.805572, train accuracy: 0.891602
+validation loss:-0.804283, validation accuracy: 0.902344
+epoch 12 32, train loss: -0.814802, train accuracy: 0.909180
+validation loss:-0.804786, validation accuracy: 0.888672
+epoch 12 64, train loss: -0.819658, train accuracy: 0.906250
+validation loss:-0.809968, validation accuracy: 0.904297
+epoch 13 32, train loss: -0.825298, train accuracy: 0.911133
+validation loss:-0.811695, validation accuracy: 0.894531
+epoch 13 64, train loss: -0.818609, train accuracy: 0.902344
+validation loss:-0.811979, validation accuracy: 0.902344
+epoch 14 32, train loss: -0.828689, train accuracy: 0.908203
+validation loss:-0.815580, validation accuracy: 0.898438
+epoch 14 64, train loss: -0.822988, train accuracy: 0.907227
+validation loss:-0.817918, validation accuracy: 0.900391
+epoch 15 32, train loss: -0.828637, train accuracy: 0.912598
+validation loss:-0.817484, validation accuracy: 0.902344
+epoch 15 64, train loss: -0.830638, train accuracy: 0.910156
+validation loss:-0.820549, validation accuracy: 0.894531
+epoch 16 32, train loss: -0.832721, train accuracy: 0.916016
+validation loss:-0.821214, validation accuracy: 0.892578
+epoch 16 64, train loss: -0.833689, train accuracy: 0.909180
+validation loss:-0.824632, validation accuracy: 0.910156
+epoch 17 32, train loss: -0.836449, train accuracy: 0.910645
+validation loss:-0.820075, validation accuracy: 0.906250
+epoch 17 64, train loss: -0.835350, train accuracy: 0.911621
+validation loss:-0.827576, validation accuracy: 0.900391
+epoch 18 32, train loss: -0.839794, train accuracy: 0.916016
+validation loss:-0.827101, validation accuracy: 0.898438
+epoch 18 64, train loss: -0.838428, train accuracy: 0.911621
+validation loss:-0.827415, validation accuracy: 0.894531
+epoch 19 32, train loss: -0.840650, train accuracy: 0.921387
+validation loss:-0.830232, validation accuracy: 0.904297
+epoch 19 64, train loss: -0.840798, train accuracy: 0.912109
+validation loss:-0.829783, validation accuracy: 0.886719
+epoch 20 32, train loss: -0.840117, train accuracy: 0.914062
+validation loss:-0.831604, validation accuracy: 0.906250
+epoch 20 64, train loss: -0.845010, train accuracy: 0.916016
+validation loss:-0.832679, validation accuracy: 0.900391
+epoch 21 32, train loss: -0.849802, train accuracy: 0.927246
+validation loss:-0.832392, validation accuracy: 0.908203
+epoch 21 64, train loss: -0.840106, train accuracy: 0.906738
+validation loss:-0.833646, validation accuracy: 0.894531
+epoch 22 32, train loss: -0.849046, train accuracy: 0.922852
+validation loss:-0.835349, validation accuracy: 0.908203
+epoch 22 64, train loss: -0.842152, train accuracy: 0.906738
+validation loss:-0.836172, validation accuracy: 0.894531
+epoch 23 32, train loss: -0.851641, train accuracy: 0.927734
+validation loss:-0.836577, validation accuracy: 0.906250
+epoch 23 64, train loss: -0.845128, train accuracy: 0.912598
+validation loss:-0.839042, validation accuracy: 0.912109
+epoch 24 32, train loss: -0.851794, train accuracy: 0.921875
+validation loss:-0.838746, validation accuracy: 0.902344
+epoch 24 64, train loss: -0.848561, train accuracy: 0.917480
+validation loss:-0.836630, validation accuracy: 0.900391
+epoch 25 32, train loss: -0.853132, train accuracy: 0.927734
+validation loss:-0.841027, validation accuracy: 0.898438
+epoch 25 64, train loss: -0.849046, train accuracy: 0.912598
+validation loss:-0.840421, validation accuracy: 0.908203
+epoch 26 32, train loss: -0.853903, train accuracy: 0.928223
+validation loss:-0.841426, validation accuracy: 0.908203
+epoch 26 64, train loss: -0.850864, train accuracy: 0.918945
+validation loss:-0.841868, validation accuracy: 0.908203
+epoch 27 32, train loss: -0.854844, train accuracy: 0.927246
+validation loss:-0.841780, validation accuracy: 0.906250
+epoch 27 64, train loss: -0.854250, train accuracy: 0.919922
+validation loss:-0.844106, validation accuracy: 0.904297
+epoch 28 32, train loss: -0.856265, train accuracy: 0.921875
+validation loss:-0.843922, validation accuracy: 0.910156
+epoch 28 64, train loss: -0.855265, train accuracy: 0.927246
+validation loss:-0.843175, validation accuracy: 0.912109
+epoch 29 32, train loss: -0.853754, train accuracy: 0.921387
+validation loss:-0.844422, validation accuracy: 0.906250
+epoch 29 64, train loss: -0.856878, train accuracy: 0.925781
+validation loss:-0.842720, validation accuracy: 0.908203
+epoch 30 32, train loss: -0.857057, train accuracy: 0.919922
+validation loss:-0.844377, validation accuracy: 0.900391
+epoch 30 64, train loss: -0.858598, train accuracy: 0.923828
+validation loss:-0.845426, validation accuracy: 0.892578
+epoch 31 32, train loss: -0.858627, train accuracy: 0.925781
+validation loss:-0.842964, validation accuracy: 0.910156
+epoch 31 64, train loss: -0.857653, train accuracy: 0.927734
+validation loss:-0.845954, validation accuracy: 0.900391
+epoch 32 32, train loss: -0.860936, train accuracy: 0.931641
+validation loss:-0.847161, validation accuracy: 0.908203
+epoch 32 64, train loss: -0.857653, train accuracy: 0.921875
+validation loss:-0.848276, validation accuracy: 0.916016
+epoch 33 32, train loss: -0.859694, train accuracy: 0.928223
+validation loss:-0.846957, validation accuracy: 0.902344
+epoch 33 64, train loss: -0.860902, train accuracy: 0.924316
+validation loss:-0.847759, validation accuracy: 0.910156
+epoch 34 32, train loss: -0.861274, train accuracy: 0.926758
+validation loss:-0.845559, validation accuracy: 0.906250
+epoch 34 64, train loss: -0.862194, train accuracy: 0.930664
+validation loss:-0.845225, validation accuracy: 0.888672
+epoch 36 32, train loss: -0.862488, train accuracy: 0.931641
+validation loss:-0.848398, validation accuracy: 0.914062
+epoch 36 64, train loss: -0.860949, train accuracy: 0.924805
+validation loss:-0.850607, validation accuracy: 0.906250
+epoch 37 32, train loss: -0.862566, train accuracy: 0.922852
+validation loss:-0.850252, validation accuracy: 0.900391
+epoch 37 64, train loss: -0.862363, train accuracy: 0.931152
+validation loss:-0.850824, validation accuracy: 0.904297
+epoch 38 32, train loss: -0.865346, train accuracy: 0.930176
+validation loss:-0.849666, validation accuracy: 0.916016
+epoch 38 64, train loss: -0.863084, train accuracy: 0.926270
+validation loss:-0.850892, validation accuracy: 0.914062
+epoch 39 32, train loss: -0.864919, train accuracy: 0.933594
+validation loss:-0.850589, validation accuracy: 0.900391
+epoch 39 64, train loss: -0.862800, train accuracy: 0.925293
+validation loss:-0.850089, validation accuracy: 0.904297
+epoch 40 32, train loss: -0.864060, train accuracy: 0.929199
+validation loss:-0.852432, validation accuracy: 0.914062
+epoch 40 64, train loss: -0.866443, train accuracy: 0.933105
+validation loss:-0.852242, validation accuracy: 0.914062
+epoch 41 32, train loss: -0.864387, train accuracy: 0.926270
+validation loss:-0.852223, validation accuracy: 0.904297
+epoch 41 64, train loss: -0.867566, train accuracy: 0.935059
+validation loss:-0.853930, validation accuracy: 0.916016
+epoch 42 32, train loss: -0.867311, train accuracy: 0.932129
+validation loss:-0.852897, validation accuracy: 0.916016
+epoch 42 64, train loss: -0.865686, train accuracy: 0.933105
+validation loss:-0.854592, validation accuracy: 0.917969
+epoch 43 32, train loss: -0.866099, train accuracy: 0.934570
+validation loss:-0.850188, validation accuracy: 0.914062
+epoch 43 64, train loss: -0.867143, train accuracy: 0.930176
+validation loss:-0.854206, validation accuracy: 0.912109
+epoch 44 32, train loss: -0.866044, train accuracy: 0.932617
+validation loss:-0.853205, validation accuracy: 0.896484
+epoch 44 64, train loss: -0.867867, train accuracy: 0.932129
+validation loss:-0.855711, validation accuracy: 0.921875
+epoch 45 32, train loss: -0.869126, train accuracy: 0.936523
+validation loss:-0.853681, validation accuracy: 0.900391
+epoch 45 64, train loss: -0.867184, train accuracy: 0.928711
+validation loss:-0.852711, validation accuracy: 0.906250
+epoch 46 32, train loss: -0.869954, train accuracy: 0.934082
+validation loss:-0.853883, validation accuracy: 0.914062
+epoch 46 64, train loss: -0.867407, train accuracy: 0.934082
+validation loss:-0.852308, validation accuracy: 0.900391

@@ -1,0 +1,8 @@
+epoch 1 32, train loss: -0.804622, train accuracy: 0.896484
+validation loss:-0.805046, validation accuracy: 0.904297
+epoch 2 32, train loss: -0.810743, train accuracy: 0.902100
+validation loss:-0.806819, validation accuracy: 0.904297
+epoch 3 32, train loss: -0.814027, train accuracy: 0.905518
+validation loss:-0.809468, validation accuracy: 0.904297
+epoch 4 32, train loss: -0.816906, train accuracy: 0.904541
+validation loss:-0.812010, validation accuracy: 0.908203
